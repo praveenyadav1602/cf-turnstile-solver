@@ -1,3 +1,5 @@
+
+
 **Cloudflare Turnstile Automation**
 This project was built for data scraping, specifically to work with the latest Cloudflare Turnstile challenge.
 
@@ -10,4 +12,8 @@ Run instance.py. If you need multiple cf_token values simultaneously, you can cr
 Run server.py to start the Flask server.
 **Notes:**
 The pyautogui clicking mechanism is set up by measuring the coordinates on my own LCD screen. To make it work for you, you must place the Turnstile challenge in the same location on your screen or adjust the coordinates accordingly.
-For more detailed instructions, please refer to the YouTube video linked in the repository.
+![cf](https://github.com/user-attachments/assets/171346ff-1b70-41b8-af20-fd800d109886)
+
+
+
+
